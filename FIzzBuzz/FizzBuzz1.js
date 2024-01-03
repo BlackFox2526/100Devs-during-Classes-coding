@@ -14,5 +14,5 @@ function fizzBuzz (a) {
         else {
             console.log(i)
         }
-    })
+    }
 }
